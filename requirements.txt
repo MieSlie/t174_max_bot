@@ -1,0 +1,12 @@
+aiohttp==3.13.2
+aiosignal==1.4.0
+magic-filter==1.0.12
+MarkupSafe==3.0.3
+maxapi==0.9.7
+nistrng==1.2.3
+numpy==2.2.6
+pandas==2.3.3
+pathlib==1.0.1
+requests==2.32.5
+uvicorn==0.38.0
+websockets==15.0.1
